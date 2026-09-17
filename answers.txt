@@ -14,4 +14,11 @@
 1. it shows the differences between the online repository and on computer repository
 2. it shows the commits and their description
 
+-- PART 6 --
+1. git branch -a (it also shows the current branch the user is on)
+2. git branch feature_script
+3. git checkout feature_script
+4. git switch -c dev
+
+-- PART 8 -- 
    
