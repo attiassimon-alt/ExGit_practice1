@@ -21,4 +21,13 @@
 4. git switch -c dev
 
 -- PART 8 -- 
-   
+2. It's not present and normal because there are two distinctives branches (main feature_script and dev)
+3. git merge feature_script
+4. there is now the new fille helloworld
+5. a new commit : merging files
+6. git branch -d feature_script
+
+-- PART 9 --
+3. git remote add origin https://github.com/attiassimon-alt/my-first-repo.git
+4. git push -u origin <branch>
+5. My new repositories!     
