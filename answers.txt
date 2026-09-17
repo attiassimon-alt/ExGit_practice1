@@ -8,4 +8,10 @@
 
 -- PART 4 -- 
 2. it says that the online repository and the repository on my computer are not synched 
-4.  
+4. I now have 4 commits
+
+-- PART 5 -- 
+1. it shows the differences between the online repository and on computer repository
+2. it shows the commits and their description
+
+   
