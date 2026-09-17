@@ -1,0 +1,10 @@
+*part 1 and 2 are not written questions*
+
+-- PART 3 -- 
+1. git status
+2. git add readme.txt
+3. git commit -m "Add readme file"
+4. git log
+
+-- PART 4 -- 
+2. 
