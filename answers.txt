@@ -30,4 +30,11 @@
 -- PART 9 --
 3. git remote add origin https://github.com/attiassimon-alt/my-first-repo.git
 4. git push -u origin <branch>
-5. My new repositories!     
+5. My new repositories!
+
+-- PART 10 -- 
+1. git clone <link>
+4. they are !
+
+
+     
